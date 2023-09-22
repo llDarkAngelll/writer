@@ -1,0 +1,4 @@
+name: Writer
+version: '${project.version}'
+main: at.darkangel.writer.Writer
+api-version: 1.20
